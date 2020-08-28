@@ -6,4 +6,4 @@ Three Observable Trends
 
 2. Based on the Age Demogrpahics table, we can see that people from the age group of 20 years to 24 years spend the most on games. However, the average price per person total was the highest in the age group of years 35-39, and less than 10 years. This is most likely for the people who have a more dispensible income, and children usually don't have their own money, but their parents will either give them money, or they'll save up their own money to purchase whichever game they have their eye on. 
 
-3. Finally, between the most popular amd profitable items, 
+3. Finally, between the most popular and profitable items, 
